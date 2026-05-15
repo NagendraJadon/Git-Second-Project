@@ -1,5 +1,5 @@
 # Git-Second-Project
 This is my second Git Project
 <br>
-Author - Nagendra Jadon
+Author - Nagendra singh Jadon
  
